@@ -1,0 +1,11 @@
+# downloaded / generated data (re-created by main.ipynb)
+PennFudanPed/
+PennFudanPed.zip
+dataset/
+experiments/
+deliverables.zip
+data.yaml
+*.pt
+!models/best.pt
+__pycache__/
+.ipynb_checkpoints/
